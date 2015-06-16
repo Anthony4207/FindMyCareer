@@ -245,7 +245,7 @@ public class frmMain extends javax.swing.JFrame
 
     private void buttonAdminModifyCategoriesActionPerformed(java.awt.event.ActionEvent evt)//GEN-FIRST:event_buttonAdminModifyCategoriesActionPerformed
     {//GEN-HEADEREND:event_buttonAdminModifyCategoriesActionPerformed
-
+        new frmModifyCategories().setVisible(true);
     }//GEN-LAST:event_buttonAdminModifyCategoriesActionPerformed
 
     private void comboIndustryItemStateChanged(java.awt.event.ItemEvent evt)//GEN-FIRST:event_comboIndustryItemStateChanged
