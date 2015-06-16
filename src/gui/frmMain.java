@@ -255,7 +255,7 @@ public class frmMain extends javax.swing.JFrame
 
     private void buttonAdminModifyIndustriesActionPerformed(java.awt.event.ActionEvent evt)//GEN-FIRST:event_buttonAdminModifyIndustriesActionPerformed
     {//GEN-HEADEREND:event_buttonAdminModifyIndustriesActionPerformed
-
+	new frmModifyIndustries().setVisible(true);
     }//GEN-LAST:event_buttonAdminModifyIndustriesActionPerformed
 
     private void buttonLoginActionPerformed(java.awt.event.ActionEvent evt)//GEN-FIRST:event_buttonLoginActionPerformed
