@@ -280,7 +280,7 @@ public class frmMain extends javax.swing.JFrame
 
     private void buttonQuitActionPerformed(java.awt.event.ActionEvent evt)//GEN-FIRST:event_buttonQuitActionPerformed
     {//GEN-HEADEREND:event_buttonQuitActionPerformed
-
+	this.dispose();
     }//GEN-LAST:event_buttonQuitActionPerformed
 
     private void buttonCreateAccountActionPerformed(java.awt.event.ActionEvent evt)//GEN-FIRST:event_buttonCreateAccountActionPerformed
